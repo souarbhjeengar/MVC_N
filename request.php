@@ -1,7 +1,7 @@
 <?php
 function request()
 {
-    $requestobj=(object)['controller'=>'categoriesController','method'=>'index']
+    $requestobj=(object)['controller'=>'categoriesController','method'=>'index'];
  
 }
 ?>
